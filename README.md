@@ -22,7 +22,7 @@ A simple yet powerful command-line library management system built with Python. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zain-cs/library-management-system.git
+git clone https://github.com/zain-cs/Library-Management-System.git
 cd library-management-system
 ```
 
